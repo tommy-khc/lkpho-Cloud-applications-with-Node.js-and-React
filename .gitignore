@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 #others
+.gitignore
 CD220Labs/async_callback/node_modules
 CD220Labs/react_class_component/node_modules
 CD220Labs/expressjs/node_modules
